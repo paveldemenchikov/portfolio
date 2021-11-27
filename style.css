@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#ffff00,#ffee00,#ff8c00,#ff0000,#de0052,#090974,#9fee00)
+}
+
+.link-nav{
+    color: red;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 3px;
+}
+
+.link-header{
+    color: red;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 3px;
+}
+
+.social{
+    box-shadow: 5px 5px 5px 0 blue;
+}
+
